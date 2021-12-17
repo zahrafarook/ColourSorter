@@ -11,7 +11,7 @@ Sorting of items is a difficult process to carry on manually, hence continuous s
 
 The prototype of the design is created using an inspired existing template found. Reference attached at the end. We used the adobe illustrator and printed the design user lazer priter with 3mm wood. 
 
-![] <img src="IMG_6304.jpg" width="20%"/>  | ![] <img src="IMG_6304.jpg" width="20%"/>
+![]<img src="IMG_6304.jpg" width="20%"/>  | ![]<img src="IMG_6290.jpg" width="20%"/>
 
 
 
