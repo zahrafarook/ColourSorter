@@ -37,11 +37,11 @@ Here you can download the 3D model, as well as, the drawings with all dimensions
 ## Collaborators
 
 ## Support
-CRI, Université de Paris
-Rajeev MYLAPALLI
-Kevin Lhoste
-Vladimir Hermand
-Alexandre Singier
+<br>CRI, Université de Paris
+<br>Rajeev MYLAPALLI
+<br>Kevin Lhoste
+<br>Vladimir Hermand
+<br>Alexandre Singier
 
 ## References
 <li> https://www.raspberrypi.com/documentation/accessories/camera.html 
