@@ -24,6 +24,10 @@ Open Raspberry Pi Configuration on your computer and enable a Raspberry Pi Camer
 Open a terminal on your computer and install OpenCV library, make sure you install dependencies according to the version https://raspberry-valley.azurewebsites.net/Updating-Raspberry-Pi/ 
 Import GPIO library to be able to control the motors 
 
+## Design 
+
+Here you can download the 3D model, as well as, the drawings with all dimensions needed for building this project.https://howtomechatronics.com/projects/arduino-color-sorter-project/. 
+
 ## Design ProtoType
 
 The prototype of the design is created using an inspired existing template found. Reference attached at the end. We used the adobe illustrator and printed the design user lazer priter with 3mm wood. 
