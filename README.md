@@ -32,5 +32,20 @@ Here you can download the 3D model, as well as, the drawings with all dimensions
 
 <img src="IMG_6318.jpg" width="20%"/>  
 
+## Schematics
 
+## Collaborators
 
+## Support
+CRI, Université de Paris
+Rajeev MYLAPALLI
+Kevin Lhoste
+Vladimir Hermand
+Alexandre Singier
+
+## References
+<li> https://www.raspberrypi.com/documentation/accessories/camera.html <li/>
+<li>https://raspberry-valley.azurewebsites.net/Updating-Raspberry-Pi/<li/>
+<li>https://opencv.org/releases/<li/>
+<li>https://www.computervision.zone/projects/<li/>
+<li>https://forum.opencv.org/t/color-detection/4541<li/>
