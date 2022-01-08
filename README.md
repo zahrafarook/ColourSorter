@@ -44,8 +44,8 @@ Vladimir Hermand
 Alexandre Singier
 
 ## References
-<li> https://www.raspberrypi.com/documentation/accessories/camera.html <li/>
-<li>https://raspberry-valley.azurewebsites.net/Updating-Raspberry-Pi/<li/>
-<li>https://opencv.org/releases/<li/>
-<li>https://www.computervision.zone/projects/<li/>
-<li>https://forum.opencv.org/t/color-detection/4541<li/>
+<li> https://www.raspberrypi.com/documentation/accessories/camera.html 
+<li>https://raspberry-valley.azurewebsites.net/Updating-Raspberry-Pi/
+<li>https://opencv.org/releases/
+<li>https://www.computervision.zone/projects/
+<li>https://forum.opencv.org/t/color-detection/4541
