@@ -32,7 +32,7 @@ Here you can download the 3D model, as well as, the drawings with all dimensions
 
 The prototype of the design is created using an inspired existing template found. Reference attached at the end. We used the adobe illustrator and printed the design user lazer priter with 3mm wood. 
 
-<img src="IMG_6304.jpg" width="20%"/>  
+<img src="IMG_6318.jpg" width="20%"/>  
 
 
 
