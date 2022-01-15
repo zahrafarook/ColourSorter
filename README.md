@@ -33,6 +33,8 @@ Here you can download the 3D model, as well as, the drawings with all dimensions
 <img src="IMG_6318.jpg" width="20%"/>  
 
 ## Schematics
+The following schematics was used as a reference for the project, Arduino Nano and color sensor in project were replaced by Raspberry Pi and Web-camera
+![Arduino-Color-Sorting-Machine-Circuit-Schematic](https://user-images.githubusercontent.com/90629465/149641263-c825eec8-e73e-4082-b9e7-f16e8e519ff7.png)
 
 ## Collaborators
 
