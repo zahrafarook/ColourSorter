@@ -35,7 +35,9 @@ Here you can download the 3D model, as well as, the drawings with all dimensions
 ## Schematics
 
 ## Collaborators
-
+<li> Natalia Savelyeva
+<li> Zahra Farook
+  
 ## Support
 <li>CRI, Université de Paris
 <li>Rajeev MYLAPALLI
